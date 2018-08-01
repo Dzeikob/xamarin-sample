@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{F411B29D-D23F-4024-8E78-381BCA54F411}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="HelloXamarinFormsWorld.Android/MainActivity.cs">
     <Files>
-      <File FileName="HelloXamarinFormsWorld.Android/MainActivity.cs" Line="2" Column="18" />
+      <File FileName="HelloXamarinFormsWorld.Android/MainActivity.cs" Line="1" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
@@ -10,5 +10,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.HelloXamarinFormsWorld.Android PreferredExecutionTarget="Android.988674385244575636" />
+  <MonoDevelop.Ide.ItemProperties.HelloXamarinFormsWorld.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
 </Properties>
